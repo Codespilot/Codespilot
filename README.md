@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Codepilot/Codepilot/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Codepilot/Codepilot/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/Codespilot/Codespilot/refs/heads/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Codespilot/Codespilot/refs/heads/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -103,6 +103,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Codepilot/Codepilot/snake-output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Codespilot/Codespilot/refs/heads/snake-output/snake.svg" alt="Snake animation" />
 
 ###
